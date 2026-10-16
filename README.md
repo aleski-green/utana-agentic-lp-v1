@@ -19,7 +19,7 @@ Open http://localhost:8766. No build step or package installation is required.
 - `site.js`: navigation, decorative motion, and enquiry form behaviour
 - `use-cases.html`, `use-cases/`, and `use-cases.css`: automation workflow library
 - `blog/`: articles linked from the homepage
-- `assets/team/`: team portraits
+- `assets/team/`: original team portraits and optimized WebP versions used by the website
 - `privacy.html`: privacy information
 - `preview-*.html`, `navy.html`, and `blog-navy/`: design variants and alternate pages
 
@@ -36,3 +36,9 @@ Google Fonts are loaded remotely with system-font fallbacks. Workflow articles d
 ## Local files
 
 The `.gitignore` excludes credentials, editor files, generated archives, and local research/editing notes.
+
+## Image and font performance
+
+Team pages use WebP portraits sized to at most 660 pixels on their longest edge, with explicit dimensions and native lazy loading. Keep the original files as editing sources; use the optimized variants in page markup. The four displayed portraits total approximately 148 KB.
+
+Pages load Google Fonts directly from the document head with preconnections and `display=swap`, avoiding a chained CSS import. When changing shared CSS, update its version query in HTML pages so existing visitors receive the change.
