@@ -54,6 +54,6 @@ Production pages are indexable. Design previews (`preview-*`, `navy.html`, `priv
 
 The social preview is `assets/social/utana.png` (1200×630). Structured data contains only published company details; no invented reviews, prices, publication dates, vendor partnerships, or customer results. Organizational article authorship is visible. New client evidence should be reviewed before publication.
 
-Search Console and Bing Webmaster Tools ownership verification and sitemap submission require the owner's account. No verification tokens, analytics, or submission backend are configured by this change. The robots and sitemap files alone do not confirm indexing or AI citations.
+Google Search Console (the https://utana.group/ URL-prefix property) and Bing Webmaster Tools ownership verification are complete. Keep the google-site-verification and msvalidate.01 meta tags in index.html outside the generated SEO block to preserve verification. On 17 October 2026 (Asia/Dubai), https://utana.group/sitemap.xml was submitted to both services: Google processed it successfully and discovered all 29 URLs; Bing accepted it for processing. Submission and discovery do not guarantee indexing or AI citations. No analytics or submission backend is configured.
 
 Sapiens4 copy follows the source-available Sustainable Use License in its repository and links to https://sapiens4.ai/. Do not describe it as unrestricted open-source software or promise remote access beyond the current documented setup.
