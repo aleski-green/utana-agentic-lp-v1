@@ -18,8 +18,8 @@
 
 .case-context{max-width:850px;font-size:16px;margin:25px 0 40px}.implementation-case{display:grid;grid-template-columns:1fr 1.6fr;gap:65px;padding:44px 0;border-top:1px solid var(--line)}.case-company h3{font-size:32px}.case-company .eyebrow{color:var(--lime);font-size:11px}.case-evidence h4{font-size:16px;font-weight:600;margin:0 0 7px}.case-evidence>p{margin:0 0 24px}.source-line a{color:var(--lime);text-decoration:underline;text-underline-offset:4px;font-size:14px}.case-evidence details{border-top:1px solid var(--line)}.case-evidence summary{font-size:15px;padding:16px 0;justify-content:space-between}.case-evidence details p{margin:0 0 15px}@media(max-width:1050px){nav{gap:15px}nav a{font-size:13px}}@media(max-width:760px){.implementation-case{grid-template-columns:1fr;gap:20px}.case-company h3{font-size:28px}}
 
-/* Six team members arranged in two balanced rows. */
-.team-grid .team-member:nth-child(n){grid-column:span 2}
+/* Four team members arranged in two balanced rows. */
+.team-grid .team-member:nth-child(n){grid-column:span 3}
 .member-placeholder{aspect-ratio:4/5;min-height:0;align-items:center;background:#d6deeb}
 @media(max-width:900px){.team-grid .team-member:nth-child(n){grid-column:span 1}}
 
