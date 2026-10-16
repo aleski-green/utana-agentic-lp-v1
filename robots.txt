@@ -1,0 +1,9 @@
+# Public production pages may be crawled. Preview pages carry noindex in HTML.
+User-agent: *
+Allow: /
+
+# Search discovery; model-training crawler preferences are independent.
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://utana.group/sitemap.xml

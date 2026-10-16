@@ -1,0 +1,45 @@
+# Utana
+
+> Utana Agentic Technologies LLC helps businesses worldwide with AI automation for marketing, sales, and operations. Based in Dubai.
+
+This directory links to public pages. The linked HTML pages are the authoritative service descriptions. Workflow guides describe proposed implementations, not measured customer outcomes.
+
+## Services and company
+- [Less busywork More business](https://utana.group/): AI automation for businesses worldwide: marketing, sales, WhatsApp, Meta ads optimisation, agentic discovery, Codex adoption, and business intelligence.
+- [sapiens4: agents that work on your computer](https://utana.group/sapiens4.html): sapiens4 is source-available software for macOS and Windows, free for permitted personal and internal business use. Get workflow implementation help from Utana.
+- [Agentic discovery for your business](https://utana.group/services/agentic-discovery.html): Agentic discovery services: technical SEO, clear business information, structured data, and useful content for search engines and AI assistants.
+- [Agentic workflows and business intelligence](https://utana.group/services/ai-workflows-business-intelligence.html): AI automation and agentic workflows for business intelligence, operational reporting, document processing, and decisions supported by traceable data.
+- [Codex for marketing and solopreneurs](https://utana.group/services/codex-for-business.html): Practical Codex adoption for marketing teams and solopreneurs: workflow setup, reporting, research, production support, and reviewable automation.
+- [Marketing and sales automation](https://utana.group/services/marketing-sales-automation.html): Marketing automation, sales automation, WhatsApp workflows, and Meta ads optimisation. Connect campaigns to qualified enquiries with Utana.
+- [AI automation for the work that matters](https://utana.group/services.html): AI automation services for businesses worldwide: marketing, sales, WhatsApp, agentic discovery, Codex adoption, and business intelligence.
+- [Technology chosen around your work](https://utana.group/technology.html): Utana supports Codex, Kimi, DeepSeek, Gemini, OpenClaw, Hermes, grokbot, and Muse workflows. Read our technology approach and model policy.
+- [Everyday work Better workflows](https://utana.group/use-cases.html): Practical business automation articles covering sales, operations, clinics, marketing, restaurants, and large organisations.
+
+## Workflow guides and insights
+- [Recruiting an AI engineer: from profile to practical evidence](https://utana.group/blog/business-automation.html): A proposed recruiting workflow that gathers project evidence, working demos, and GitHub links for human review.
+- [From AI news to ready-to-publish posts](https://utana.group/blog/first-workflow.html): A proposed three-agent workflow to find relevant AI news, draft useful social posts, and prepare branded visuals for human approval.
+- [Turning campaign results into better enquiries](https://utana.group/blog/human-judgment.html): A proposed Utana campaign workflow: Meta ads open WhatsApp conversations, while an agent reviews enquiry quality and proposes changes for human approval.
+- [Marketing campaign planning and optimisation](https://utana.group/use-cases/campaign-coordination.html): Coordinate research, creative production, launch preparation, and reporting.
+- [Clinic appointment and reception administration](https://utana.group/use-cases/clinic-administration.html): Clinic appointment and reception administration: a practical workflow guide covering implementation, human review, and measurement.
+- [Clinic administration across the appointment journey](https://utana.group/use-cases/clinic-journey.html): Coordinate administrative tasks before and after an appointment.
+- [Reporting across departments and locations](https://utana.group/use-cases/department-reporting.html): Reporting across departments and locations: a practical workflow guide covering implementation, human review, and measurement.
+- [Invoice, order, and document processing](https://utana.group/use-cases/document-operations.html): Invoice, order, and document processing: a practical workflow guide covering implementation, human review, and measurement.
+- [Employee onboarding and internal service requests](https://utana.group/use-cases/employee-requests.html): Employee onboarding and internal service requests: a practical workflow guide covering implementation, human review, and measurement.
+- [From customer enquiry to project delivery](https://utana.group/use-cases/enquiry-to-delivery.html): Connect sales, pricing, onboarding, and operations in one coordinated workflow.
+- [Marketing production and campaign reporting](https://utana.group/use-cases/marketing-production.html): Marketing production and campaign reporting: a practical workflow guide covering implementation, human review, and measurement.
+- [Procurement and supplier coordination](https://utana.group/use-cases/procurement-coordination.html): Coordinate purchasing requests, supplier quotations, deliveries, and invoice checks.
+- [Recruitment intake and interview coordination](https://utana.group/use-cases/recruitment-coordination.html): Organise applications, interview scheduling, feedback, and candidate communication.
+- [Operations across multiple restaurant locations](https://utana.group/use-cases/restaurant-locations.html): Bring local reporting, purchasing, and management review into one coordinated process.
+- [Restaurant reservations, stock, and supplier coordination](https://utana.group/use-cases/restaurant-operations.html): Restaurant reservations, stock, and supplier coordination: a practical workflow guide covering implementation, human review, and measurement.
+- [Sales enquiry qualification and follow up](https://utana.group/use-cases/sales-enquiries.html): Sales enquiry qualification and follow up: a practical workflow guide covering implementation, human review, and measurement.
+- [Proposal preparation and sales administration](https://utana.group/use-cases/sales-proposals.html): Proposal preparation and sales administration: a practical workflow guide covering implementation, human review, and measurement.
+- [Customer support with investigation and resolution](https://utana.group/use-cases/support-investigation.html): Investigate requests across records and prepare a reviewed resolution.
+- [Dubai off-plan property: the daily lowest entry tickets](https://utana.group/use-cases/uae-real-estate.html): Turn scattered inventory updates into a daily shortlist of each developer’s lowest-priced options.
+
+## Contact and policies
+- Email: sapiens@utana.group
+- Phone: +971 58 660 1017
+- [Technology and model policy](https://utana.group/technology.html#model-policy): Utana does not use Claude models in business workflows.
+- [Privacy](https://utana.group/privacy.html)
+- [Sitemap](https://utana.group/sitemap.xml)
+- [sapiens4 official website](https://sapiens4.ai/): source-available software for macOS and Windows; permitted free use is subject to the project license.
